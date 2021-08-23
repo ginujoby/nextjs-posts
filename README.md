@@ -1,6 +1,6 @@
-#NextJS Posts App
+# NextJS Posts App
 
-##The Task
+## The Task
 * Create a simple NextJS React App which should have the following pages
     1. Home page: Display a table containing select checkboxes, post title, and actions.
         - Clicking on the “Show” button on each row should redirect to a different page displaying details for that post.
@@ -16,13 +16,13 @@
         - This page should display all the posts selected by the user on the main page
         - Refreshing this page should display one or more cards correctly.
 
-##App Setup
+## App Setup
 
-###System Requirements:
+### System Requirements:
 
 - Node.js 12.0 or later
 
-###Install dependencies and start the server:
+### Install dependencies and start the server:
 
 ```bash
 npm install
@@ -30,7 +30,7 @@ npm run build
 npm run start
 ```
 
-###Tests:
+### Tests:
 
 ```bash
 npm run test:ci
